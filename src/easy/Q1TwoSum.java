@@ -21,7 +21,7 @@ public class Q1TwoSum {
         int [] nums = {2,11,15,7};
         int target = 9;
 
-        System.out.println(Arrays.toString(twoSum(nums,target)));
+        System.out.println(Arrays.toString( twoSum(nums,target)));
     }
 
     public static int[] twoSum(int[] nums, int target) {
